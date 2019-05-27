@@ -66,5 +66,5 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
+deploy: 'https://github.com/LetHergo/lethergo.github.io.git'
   type:
