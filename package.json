@@ -6,6 +6,7 @@
     "version": "3.2.2"
   },
   "scripts": {
+    "test": "hexo clean && hexo g&&gulp build &&hexo s",
     "build": "hexo clean && hexo g && gulp build && hexo deploy && hexo s"
   },
   "dependencies": {
